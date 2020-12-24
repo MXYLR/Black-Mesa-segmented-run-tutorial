@@ -10,4 +10,4 @@ see : https://github.com/MXYLR/Black-Mesa-segmented-run-tutorial/blob/main/Segme
 
 Feel free to pull request
 
-I will add you guys to [SUMMARY.md](https://github.com/MXYLR/Black-Mesa-segmented-run-tutorial/blob/main/SUMMARY.md)
+I will add you guys into [SUMMARY.md](https://github.com/MXYLR/Black-Mesa-segmented-run-tutorial/blob/main/SUMMARY.md)
