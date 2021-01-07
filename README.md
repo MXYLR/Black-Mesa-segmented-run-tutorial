@@ -1,6 +1,6 @@
-# Black-Mesa-segmented-run-tutorial
+# Black-Mesa-segmented-run-archive
 
-A tutorial for Black Mesa segmented speedrun, maybe it also works in other souce games.
+An archivel for Black Mesa segmented speedrun, maybe it also works in other souce games.
 
 ## Tutorial
 
